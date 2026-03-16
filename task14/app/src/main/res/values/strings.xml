@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="title_compass">Компас</string>
+    <string name="azimuth">Азимут: %d°</string>
+    <string name="north">N</string>
+    <string name="error_no_sensor">Устройство не поддерживает датчик ориентации</string>
+</resources>
