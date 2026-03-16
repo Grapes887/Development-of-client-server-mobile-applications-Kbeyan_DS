@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task10</string>
+    <string name="get_address">Получить мой адрес</string>
+    <string name="loading">Получение местоположения...</string>
+    <string name="address">Адрес</string>
+    <string name="coordinates">Координаты</string>
+    <string name="no_address">Адрес не найден</string>
+    <string name="permission_required">Для работы приложения необходимо разрешение на определение местоположения</string>
+    <string name="error_location">Ошибка получения местоположения</string>
+    <string name="error_geocoder">Ошибка получения адреса</string>
+    <string name="no_internet">Отсутствует подключение к интернету</string>
+    <string name="settings">Настройки</string>
+    <string name="cancel">Отмена</string>
+    <string name="retry">Повторить</string>
+</resources>
